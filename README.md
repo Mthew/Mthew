@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust and solidity**
 
-- 🤝 I’m looking for help with is dapp for a tokenization of real estate [DappSy](https://github.com/Mthew/DappSy)
+- 🤝 I’m looking for help with [DappSy](https://github.com/Mthew/DappSy) is dapp for a tokenization of real estate
 
 - 👨‍💻 All of my projects are available at [mthew.com](mthew.com)
 

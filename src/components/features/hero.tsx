@@ -13,7 +13,7 @@ const Hero: React.FC = () => {
 
   const handleDownloadCV = () => {
     console.log("Download CV clicked");
-    window.open("/assets/CV_MTHEW.pdf", "_blank");
+    window.location.href = "https://linkedin.com/in/mthew";
   };
 
   const handleContactMe = () => {
